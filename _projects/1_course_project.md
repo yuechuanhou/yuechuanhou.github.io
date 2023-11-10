@@ -8,6 +8,8 @@ category: "Course Projects"
 related_publications:
 ---
 
+<strong>Time:</strong> Sep 2022 – Dec 2022
+
 ## Introduction
 
 **Castle Crasher** is a side-scrolling platform game, infused with vibrancy and engagement, drawing inspiration from timeless classics such as *Super Mario*, *Mega Man*, and *Kirby*. This project's goal is to craft an interactive and enjoyable gaming experience that seamlessly blends adventure with strategic challenges, set in an enthralling fantasy world.

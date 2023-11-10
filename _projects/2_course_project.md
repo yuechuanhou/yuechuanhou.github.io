@@ -8,18 +8,11 @@ category: "Course Projects"
 related_publications:
 ---
 
+<strong>Time:</strong> Sep 2020 – Dec 2020
+
 ## Introduction
 
 In response to the heightened need for accessible health monitoring tools due to the global pandemic, this project focused on the development of a home-based respiratory testing apparatus. The device's purpose is to enable individuals to conduct simple yet accurate respiratory tests, such as measuring peak breath force and total volumetric lung flow, in the comfort of their homes. This initiative directly addresses public health concerns, allowing for early detection of respiratory issues and reducing the strain on healthcare systems.
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/TestingApparatus_SchematicRepresentation.jpg" title="Schematic Representation of the Apparatus" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    <em>Schematic Representation of the Apparatus</em>
-</div>
 
 ## Methods
 
