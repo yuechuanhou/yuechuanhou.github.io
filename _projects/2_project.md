@@ -79,3 +79,19 @@ Here's the code for the last row of images above:
 </div>
 ```
 {% endraw %}
+
+<script src="https://giscus.app/client.js"
+        data-repo="yuechuanhou/yuechuanhou.github.io"
+        data-repo-id="R_kgDOKk1tcw"
+        data-category="General"
+        data-category-id="DIC_kwDOKk1tc84Caj3h"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
