@@ -3,7 +3,7 @@ layout: page
 title: "Optimization of Thermal Performance of Kagome Lattice Structure within Rectangular Channels"
 description: "Revolutionizing aerothermal engineering with lattice structures for enhanced heat transfer and energy efficiency."
 img: assets/img/Kagome.jpg
-importance: 1
+importance: 2
 category: "Research Projects"
 related_publications:
 ---
@@ -12,7 +12,7 @@ related_publications:
 
 ## Introduction
 
-*Lattice structures, typified by their geometrically intricate designs, are renowned for their capability to enhance heat transfer performance in areas subjected to high thermal conditions. The Kagome lattice structure, characterized by its distinctive trihexagonal tiling pattern, is gaining prominence in various engineering applications due to its unique thermal and mechanical properties. One of the primary challenges in the field of aerothermal engineering is the optimization of thermal performance within confined spaces, such as the trailing edge region of a turbine airfoil. Addressing this challenge, the research undertakes a comprehensive analysis of Kagome lattice structures within rectangular channels. By simulating conditions similar to the trailing edge region, the study emphasizes the potential of Kagome lattices for enhanced energy efficiency and sustainability. Improved thermal management in turbine airfoils could lead to increased energy efficiency, thus lowering greenhouse gas emissions. The study is divided into two main objectives:
+Lattice structures, typified by their geometrically intricate designs, are renowned for their capability to enhance heat transfer performance in areas subjected to high thermal conditions. The Kagome lattice structure, characterized by its distinctive trihexagonal tiling pattern, is gaining prominence in various engineering applications due to its unique thermal and mechanical properties. One of the primary challenges in the field of aerothermal engineering is the optimization of thermal performance within confined spaces, such as the trailing edge region of a turbine airfoil. Addressing this challenge, the research undertakes a comprehensive analysis of Kagome lattice structures within rectangular channels. By simulating conditions similar to the trailing edge region, the study emphasizes the potential of Kagome lattices for enhanced energy efficiency and sustainability. Improved thermal management in turbine airfoils could lead to increased energy efficiency, thus lowering greenhouse gas emissions. The study is divided into two main objectives:
 
 - Firstly, to establish a relationship between heat transfer performance and the geometric parameters of the Kagome lattice, such as streamwise distance (Sx), spanwise distance (Sy), and vertex spacing ratio (C/H).
 - Secondly, to optimize this performance via genetic algorithms. The lattice structures are relevant for internal cooling systems in turbine airfoils, which face high thermal and mechanical stresses.
