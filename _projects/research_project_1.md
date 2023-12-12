@@ -22,7 +22,7 @@ The design leverages Isaac Sim for simulating natural environments and OpenPose 
 
 Extensive testing in simulated environments assures accuracy and robustness under diverse conditions.
 
-##Methods
+## Methods
 
 Methods include extracting datasets from Isaac Sim, applying OpenPose, and utilizing techniques from Yan Xu and Kris Kitani's research for 3D reconstruction.
 
