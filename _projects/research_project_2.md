@@ -3,8 +3,8 @@ layout: page
 title: "Dense 3D Reconstruction of Dynamic Actors in Natural Environments"
 description: "Utilizing Multiple Flying Cameras for Enhanced 3D Human Pose Estimation in Dynamic, Natural Settings"
 img: assets/img/OpenPose.jpg
-importance: 0
-category: "Research Projects"
+importance: 2
+category: ""
 related_publications:
 ---
 
