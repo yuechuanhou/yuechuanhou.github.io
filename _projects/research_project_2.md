@@ -53,23 +53,29 @@ The heat transfer performance could be optimized based on the predicted results.
 
 ## Results
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Kagome_Result1.jpg" title="Regression Model Comparisons" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Kagome_Optimization.jpg" title="Optimization Flowchart" class="img-fluid rounded z-depth-1" %}
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Kagome_Result1.jpg" title="Regression Model Comparison" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Left: The result of regression model comparisons. Right: The optimization flowchart.
+    The Comparision of 4 regression models.
 </div>
 
 The regression models were assessed using metrics such as R2 value, Mean Square Error, and Mean Absolute Error. Based on this evaluation, the <strong>Random Forest Regression</strong> model demonstrated the best fit, with the highest R2 value of 0.92 and the lowest MAE/MSE in the four regression models. It was thus selected as the guiding model for the genetic algorithm optimization process. By applying Random Forest Regression as the fitness function in the genetic algorithm, the optimized Kagome lattice structure showed an overall 12% improvement in heat transfer efficiency across different Reynolds numbers—5000, 10000, and 15000—when compared to the best-performing experimental models.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Kagome_Result2.jpg" title="Optimization Results" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Kagome_Optimization.jpg" title="Optimization Flowchart" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The flowchart of optimization.
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Kagome_Result2.jpg" title="Optimization Result" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
