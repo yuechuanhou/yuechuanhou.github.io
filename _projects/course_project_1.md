@@ -10,9 +10,11 @@ related_publications:
 
 <strong>Time:</strong> Sep 2020 – Dec 2020
 
+<strong>Skills:</strong> MATLAB
+
 ## Introduction
 
-In response to the heightened need for accessible health monitoring tools due to the global pandemic, this project focused on the development of a home-based respiratory testing apparatus. The device's purpose is to enable individuals to conduct simple yet accurate respiratory tests, such as measuring peak breath force and total volumetric lung flow, in the comfort of their homes. This initiative directly addresses public health concerns, allowing for early detection of respiratory issues and reducing the strain on healthcare systems.
+In response to the heightened need for accessible health monitoring tools due to the global pandemic, this project focused on the development of a home-based respiratory testing apparatus. The device's purpose is to enable individuals to conduct simple yet accurate respiratory tests, such as measuring peak breath force and total volumetric lung flow, transforming home environments into proactive health management spaces. This initiative directly addresses public health concerns, allowing for early detection of respiratory issues and reducing the strain on healthcare systems.
 
 ## Methods
 

@@ -10,9 +10,11 @@ related_publications:
 
 <strong>Time:</strong> Jan 2023 – May 2023
 
+<strong>Skills:</strong> C++, OpenGL
+
 ## Introduction
 
-This project aimed to port the iconic arcade game, **Metal Slug**, to modern operating systems (Windows, macOS, and Linux) using OpenGL. It was driven by the desire to revive a classic, highly-regarded game, making it accessible and enjoyable on current platforms. The core objective was to replicate the original gameplay mechanics and graphics, adhering closely to the game's classic aesthetic and dynamic gameplay.
+In an endeavor to connect the past and present of gaming, this project focused on reviving the legendary arcade game **Metal Slug** for contemporary operating systems (Windows, macOS, and Linux) using OpenGL. This initiative was fueled by a passion for preserving classic gaming experiences, ensuring they remain accessible and enjoyable in today's digital landscape. The core objective was to faithfully replicate the original's enthralling mechanics and distinct visual style, bringing the classic's dynamic gameplay to a new generation.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -37,15 +39,6 @@ The design phase of the game involved several critical components:
 - **Enemies**: Varied AI behaviors for different enemy types, including soldiers and tanks, each with unique movement patterns and attack strategies.
 - **Background**: Two primary sections - the menu and game backgrounds - were developed, with dynamic elements to enhance visual engagement and game immersion.
 - **Human-Computer Interaction**: Focused on creating intuitive and responsive controls for game navigation and interaction, enhancing the user experience.
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/MetalSlug_Background.jpg" title="Game Background" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    The background of this game.
-</div>
 
 ## Evaluation
 
