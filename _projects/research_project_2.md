@@ -17,16 +17,16 @@ related_publications:
 - Firstly, to establish a relationship between heat transfer performance and the geometric parameters of the Kagome lattice, such as streamwise distance (Sx), spanwise distance (Sy), and vertex spacing ratio (C/H).
 - Secondly, to optimize this performance via genetic algorithms. The lattice structures are relevant for internal cooling systems in turbine airfoils, which face high thermal and mechanical stresses.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Kagome.jpg" title="Kagome Element" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/Kagome_Array.jpg" title="Kagome Array" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Kagome.jpg" title="Kagome Element" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    <em>From left to right: The Kagome element, Kagome array, and the research methodology.</em>
+    Left: The Kagome array. Right: Kagome element.
 </div>
 
 ## Methods
@@ -42,6 +42,14 @@ A significant aspect of this research methodology involves regression models. Th
 
 The heat transfer performance could be optimized based on the predicted results. Here, genetic algorithms, inspired by natural evolutionary processes, were used to fine-tune the Kagome lattice configurations to reach peak thermal performance.
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Kagome_Methodology.jpg" title="Research Methodology" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The methodology of this project.
+</div>
 
 ## Results
 
