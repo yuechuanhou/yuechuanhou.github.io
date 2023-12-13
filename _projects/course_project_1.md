@@ -1,63 +1,40 @@
 ---
 layout: page
-title: "Castle Crasher: A New Era of Platform Adventures"
-description: "Reimagining Timeless 2D Action-Platformers for Today's Gaming Landscape"
-img: assets/img/CastleCrasher_MainCharacter.jpg
-importance: 1
+title: "Development of a Home-Based Respiratory Testing Apparatus"
+description: "Innovating Accessible Respiratory Health Monitoring for Home Use"
+img: assets/img/TestingApparatus_SchematicRepresentation.jpg
+importance: 3
 category: "Course Projects"
 related_publications:
 ---
 
-<strong>Time:</strong> Sep 2022 – Dec 2022
+<strong>Time:</strong> Sep 2020 – Dec 2020
 
 ## Introduction
 
-**Castle Crasher** is a side-scrolling platform game, infused with vibrancy and engagement, drawing inspiration from timeless classics such as *Super Mario*, *Mega Man*, and *Kirby*. This project's goal is to craft an interactive and enjoyable gaming experience that seamlessly blends adventure with strategic challenges, set in an enthralling fantasy world.
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/CastleCrasher_Entry.jpg" title="Entry Level of Castle Crasher" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/CastleCrasher_Stage1.jpg" title="Stage 1 of Castle Crasher" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/CastleCrasher_Stage2.jpg" title="Stage 2 of Castle Crasher" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    <em>From left to right: The entry level, and two stages of the game.</em>
-</div>
-
-## Design
-
-**Castle Crasher** has been designed with attention to every detail, ensuring a captivating gaming experience through:
-
-- **User Interface**: Featuring a user-friendly start menu, an engaging game running UI, and a comprehensive game-over menu. It also contemplates single-player and potential multiplayer modes.
-- **Game Environment**: A mix of interactive and non-interactive elements like skies, clouds, ground, and varied environmental obstacles, enhancing the gaming experience.
-- **Main Character**: Empowering players to control a character capable of movements such as running, jumping, and attacking, with special modes including invincibility.
-- **Enemy**: A diverse cast of adversaries awaits, each with unique patterns and abilities that require players to adapt their strategies. From ground-based grunts to flying foes and formidable bosses, these enemies enrich the game's world and test player reflexes and tactical prowess.
-
-## Evaluation
-
-The success of Castle Crasher is evaluated through a set of core criteria that measure the game's overall impact: the degree of user engagement and retention, the learning curve associated with the game controls to ensure accessibility and ease of play, and the overarching gaming experience, which encompasses the game's ability to provide a satisfying and holistic adventure to players of all skill levels.
+In response to the heightened need for accessible health monitoring tools due to the global pandemic, this project focused on the development of a home-based respiratory testing apparatus. The device's purpose is to enable individuals to conduct simple yet accurate respiratory tests, such as measuring peak breath force and total volumetric lung flow, in the comfort of their homes. This initiative directly addresses public health concerns, allowing for early detection of respiratory issues and reducing the strain on healthcare systems.
 
 ## Methods
 
-The development process was multifaceted, incorporating both traditional and modern development techniques:
+The apparatus was designed using a steel beam (12.7 mm wide, 0.305 mm thick, 72 mm long) combined with a strain gauge. The device's efficiency and accuracy in measuring respiratory parameters were tested using a simulated lung function pump. This setup allowed for the estimation of average and peak breath forces, alongside the measurement of total volumetric lung flow. Additionally, a calibration process was employed using known masses to ensure the precision and reliability of the sensor's readings.
 
-- **Team Collaboration**: Task allocation among team members, focusing on different elements like main character design, enemy behavior, UI, and background/environment creation.
-- **Programming Approach**: The game's core is engineered using C++ and modular programming, enhancing the ease of understanding and facilitating future modifications. The adoption of OpenGL is pivotal in rendering the game's graphics, allowing for rich visual experiences and cross-platform performance.
-- **Art and Design**: Crafting visually appealing graphics and interactive elements to engage players.
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Testing Apparatus_SensorCircuitry.jpg" title="The Circuitry of the Sensor" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    <em>The Circuitry of the Sensor</em>
+</div>
 
 ## Results
 
-The final game product boasts:
+The device effectively measured key respiratory parameters with good sensitivity, indicated by a static sensitivity of 1.5522 V/N. Despite minor discrepancies due to measurement and circuitry limitations, the device demonstrated reliable performance in simulating lung function, proving its usefulness for home-based respiratory monitoring.
 
-- A dynamic and interactive gaming experience with intricately designed levels.
-- Significant educational value for game development novices.
-- An open-source platform encouraging community contributions and shared learning.
+## Discussion
+
+The project successfully developed a practical, cost-effective, and user-friendly respiratory testing device suitable for home use. The social value of this invention lies in its potential to empower individuals to monitor their respiratory health, thereby facilitating early detection of problems and reducing the need for clinical visits. Future improvements include using thicker beams for enhanced force handling, implementing fixed supports for test stability, enclosing the beam to protect from environmental factors, and refining circuitry components to minimize measurement errors.
 
 ## Conclusion
 
-**Castle Crasher** transcends being just a game. It is a harmonious blend of entertainment and education, meticulously designed to captivate a diverse audience and double as a learning tool for aspiring game developers. Its open-source nature fosters a community-driven approach to gaming and education.
+This project represents a significant step towards accessible respiratory health monitoring, offering a precise, professional, and socially valuable solution. The device's design and functionality align with the need for simplified yet reliable health tools in a post-pandemic world, emphasizing the importance of preventive healthcare measures.
