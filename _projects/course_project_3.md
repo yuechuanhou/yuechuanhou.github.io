@@ -26,7 +26,7 @@ This project aimed to port the iconic arcade game, **Metal Slug**, to modern ope
     </div>
 </div>
 <div class="caption">
-    <em>From left to right: The main character, and two enemies of the game.</em>
+    <em>From left to right: The main character, and two types of enemy in the game.</em>
 </div>
 
 ## Design
@@ -37,6 +37,15 @@ The design phase of the game involved several critical components:
 - **Enemies**: Varied AI behaviors for different enemy types, including soldiers and tanks, each with unique movement patterns and attack strategies.
 - **Background**: Two primary sections - the menu and game backgrounds - were developed, with dynamic elements to enhance visual engagement and game immersion.
 - **Human-Computer Interaction**: Focused on creating intuitive and responsive controls for game navigation and interaction, enhancing the user experience.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/MetalSlug_Background.jpg" title="Game Background" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The background of this game.
+</div>
 
 ## Evaluation
 
