@@ -59,7 +59,7 @@ The heat transfer performance could be optimized based on the predicted results.
     </div>
 </div>
 <div class="caption">
-    The Comparision of 4 regression models.
+    The comparision of 4 regression models.
 </div>
 
 The regression models were assessed using metrics such as R2 value, Mean Square Error, and Mean Absolute Error. Based on this evaluation, the <strong>Random Forest Regression</strong> model demonstrated the best fit, with the highest R2 value of 0.92 and the lowest MAE/MSE in the four regression models. It was thus selected as the guiding model for the genetic algorithm optimization process. By applying Random Forest Regression as the fitness function in the genetic algorithm, the optimized Kagome lattice structure showed an overall 12% improvement in heat transfer efficiency across different Reynolds numbers—5000, 10000, and 15000—when compared to the best-performing experimental models.
