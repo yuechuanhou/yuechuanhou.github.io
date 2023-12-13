@@ -24,9 +24,6 @@ related_publications:
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Kagome_Array.jpg" title="Kagome Array" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Kagome_Methodology.jpg" title="Research Methodology" class="img-fluid rounded z-depth-1" %}
-    </div>
 </div>
 <div class="caption">
     <em>From left to right: The Kagome element, Kagome array, and the research methodology.</em>
