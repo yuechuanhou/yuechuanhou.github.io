@@ -5,7 +5,7 @@ permalink: /projects/
 description: A collection of my projects.
 nav: true                             
 nav_order: 2
-display_categories: [work, Course Projects]
+display_categories: [Research Projects, Course Projects]
 horizontal: false
 ---
 

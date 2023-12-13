@@ -12,7 +12,7 @@ related_publications:
 
 ## Introduction
 
-<strong>Lattice structures</strong>, typified by their geometrically intricate designs, are renowned for their capability to enhance heat transfer performance in areas subjected to high thermal conditions. <strong>The Kagome lattice structure, characterized by its distinctive trihexagonal tiling pattern, is gaining prominence in various engineering applications due to its unique thermal and mechanical properties.</strong> One of the primary challenges in the field of aerothermal engineering is the optimization of thermal performance within confined spaces, such as the trailing edge region of a turbine airfoil. Addressing this challenge, the research undertakes a comprehensive analysis of Kagome lattice structures within rectangular channels. By simulating conditions similar to the trailing edge region, the study emphasizes the potential of Kagome lattices for enhanced energy efficiency and sustainability. Improved thermal management in turbine airfoils could lead to increased energy efficiency, thus lowering greenhouse gas emissions. The study is divided into two main objectives:
+<strong>Lattice structures</strong>, typified by their geometrically intricate designs, are renowned for their capability to enhance heat transfer performance in areas subjected to high thermal conditions. <strong>The Kagome lattice structure, characterized by its distinctive trihexagonal tiling pattern, is gaining prominence in various engineering applications due to its unique thermal and mechanical properties.</strong> One of the primary challenges in the field of aerothermal engineering is the optimization of thermal performance within confined spaces, such as the trailing edge region of a turbine airfoil. Addressing this challenge, the research undertakes a comprehensive analysis of Kagome lattice structures within rectangular channels. By simulating conditions similar to the trailing edge region, the study emphasizes the potential of the Kagome lattice structure for enhanced energy efficiency and sustainability. Improved thermal management in turbine airfoils could lead to increased energy efficiency, thus lowering greenhouse gas emissions. The study is divided into two main objectives:
 
 - Firstly, to establish a relationship between heat transfer performance and the geometric parameters of the Kagome lattice, such as streamwise distance (Sx), spanwise distance (Sy), and vertex spacing ratio (C/H).
 - Secondly, to optimize this performance via genetic algorithms. The lattice structures are relevant for internal cooling systems in turbine airfoils, which face high thermal and mechanical stresses.
@@ -26,7 +26,7 @@ related_publications:
     </div>
 </div>
 <div class="caption">
-    Left: The Kagome array. Right: Kagome element.
+    Left: An array of the Kagome lattice structure in the rectangular channel. Right: Kagome element.
 </div>
 
 ## Methods
@@ -53,7 +53,28 @@ The heat transfer performance could be optimized based on the predicted results.
 
 ## Results
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Kagome_Result1.jpg" title="Regression Model Comparisons" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Kagome_Optimization.jpg" title="Optimization Flowchart" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Left: The result of regression model comparisons. Right: The optimization flowchart.
+</div>
+
 The regression models were assessed using metrics such as R2 value, Mean Square Error, and Mean Absolute Error. Based on this evaluation, the <strong>Random Forest Regression</strong> model demonstrated the best fit, with the highest R2 value of 0.92 and the lowest MAE/MSE in the four regression models. It was thus selected as the guiding model for the genetic algorithm optimization process. By applying Random Forest Regression as the fitness function in the genetic algorithm, the optimized Kagome lattice structure showed an overall 12% improvement in heat transfer efficiency across different Reynolds numbers—5000, 10000, and 15000—when compared to the best-performing experimental models.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Kagome_Result2.jpg" title="Optimization Results" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The optimization results of this project.
+</div>
 
 ## Discussion
 
