@@ -3,7 +3,7 @@ layout: page
 title: "Development of a Home-Based Respiratory Testing Apparatus"
 description: "Pitt MEMS-1041 Course Project"
 img: assets/img/TestingApparatus_SchematicRepresentation.jpg
-importance: 3
+importance: 4
 category: "Course Projects"
 related_publications:
 ---

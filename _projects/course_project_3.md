@@ -3,7 +3,7 @@ layout: page
 title: "Metal Slug: Bringing a Classic Action Game to Modern Platforms"
 description: "CMU 24-783 Course Project"
 img: assets/img/MetalSlug.jpg
-importance: 1
+importance: 3
 category: "Course Projects"
 related_publications:
 ---
